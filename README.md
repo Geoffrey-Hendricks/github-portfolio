@@ -1,5 +1,3 @@
-# github-portfolio
-
 # Aerospace Engineering Portfolio
 
 Welcome to my aerospace engineering portfolio. This repository showcases academic and personal projects focused on spacecraft systems engineering, Attitude and Orbit Control Systems (AOCS), orbital mechanics, and dynamic system simulation. My work emphasizes system-level thinking, spacecraft modeling and simulation, requirements development, and control system analysis using MATLAB and Simulink.

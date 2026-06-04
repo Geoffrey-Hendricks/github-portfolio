@@ -1,3 +1,5 @@
+****** Current Self Project, still a work in progress and needs debugging******
+
 % Full Junior AOCS System Project Modeled after Synspective's desired Qualifications - Geoffrey Hendricks
 
 Instructions: 
